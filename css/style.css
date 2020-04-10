@@ -523,6 +523,9 @@ body {
   .modal-body {
     margin-bottom: 30px;
   }
+  .modal-header {
+    margin-bottom: 30px;
+  }
   .modal-pricetag {
     padding: 10px 15px;
     font-size: 18px;
